@@ -38,7 +38,7 @@ We implement a **convolutional neural network (CNN)** using the `fastai` library
 
 ## 📁 Contents
 - `pneumonia_detector.ipynb`: Jupyter notebook containing the training, evaluation, and visualization pipeline  
-- `Applying Deep Learning Techniques to Classify Pneumonia.pdf`: Research paper detailing model design, performance, and future work
+- `Applying Deep Learning Techniques to Diagnose Pneumonia Using Lung X-ray Images.pdf`: Research paper detailing model design, performance, and future work
 
 ## 🔬 Results
 Our model demonstrates promising accuracy and provides intuitive visual explanations through heatmaps, making it suitable for use as a **clinical decision support tool** rather than a replacement for professional radiologists.
