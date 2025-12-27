@@ -2,7 +2,7 @@
 *A Deep Learning Tool for Diagnosing Pneumonia from Chest X-rays*
 
 ## 📌 Overview
-This project was developed as part of the **altREU: Design, Program, and Use Computers to Benefit Society** program.
+This project was developed as part of the **altREU: Design, Program, and Use Computers to Benefit Society** program at Portland State University.
 
 Pneumonia remains one of the leading causes of death globally, particularly among children. Chest X-rays are a critical tool for detecting pneumonia, but a global shortage of radiology experts often delays accurate diagnosis.
 
